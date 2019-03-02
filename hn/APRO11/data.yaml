@@ -46,6 +46,9 @@ process:
 goals:
 - own processing equipment
 
+descriptions:
+- DE: !fairproducers/HN/APRO11/APROLMA_DE.md
+
 sources:
 - GEPA Produzenten: https://www.gepa.de/produzenten/partner/aprolma-asociacion-de-productoras-libres-de-marcala.html
 
