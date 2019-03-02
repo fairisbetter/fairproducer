@@ -121,3 +121,7 @@ Frauenkooperative verkauft ihren Bio Arabica-Kaffee
 
 ## Plus - Das ist noch zu tun
 - Aufbau: Ziel ist es, eine eigene Verarbeitungsanlage aufzubauen.
+
+# Quellen
+- GEPA Produzenten: https://www.gepa.de/produzenten/partner/aprolma-asociacion-de-productoras-libres-de-marcala.html
+- Google Maps Link: https://maps.google.com/?q=Amerika,%20Honduras,%20Marcala
