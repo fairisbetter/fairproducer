@@ -1,0 +1,51 @@
+--- !fairproducers/HN/APRO11
+short-name: APROLMA
+long-name: Asociación de Productoras Libres de Marcala
+location-name: Amerika, Honduras, Marcala
+location-maps-link: https://maps.google.com/?q=Amerika,%20Honduras,%20Marcala
+members: 64
+founded: 2013
+type: women cooperative
+land: 1.4 hectars
+
+visits:
+- 2018: Kleber Cruz Garcia, GEPA, Einkaufsmanager Kaffee und Anne Welsing, freie Journalistin
+- 2018: Kleber Cruz Garcia, GEPA, Einkaufsmanager Kaffee
+- 2017: Kleber Cruz Garcia, GEPA, Einkaufsmanager Kaffee, Andrea Fütterer, Abteilungsleiterin Grundsatz und Politik, Tobias Mehrländer, Sortimentsmanager
+Kaffee, Barbara Schimmelpfennig, Pressesprecherin, alle GEPA, und Anne Welsing, freie Journalistin
+- 2016: Birgit Calix, Handelspartner im Süden, EZA
+- 2016: Gladyx Hernandez, Präsidentin von APROLMA und Dilcia Edith Vasquez, Schatzmeisterin von APROLMA, bei der GEPA
+
+partners:
+- GEPA (since 2015, GEPA-Code 327)
+
+product-types:
+- !referenced/product-types/COFFEE
+
+products:
+- Bio Café Aprolma, Bohne
+- Bio Café Esperanza, gemahlen
+- Bio Café Orgánico, Bohne
+
+process:
+- roastery in Marcala, organization „Denominación de Origen“
+- packing by APROLMA women
+
+working-conditions:
+- !referenced/working-conditions/EDUCATION
+- !referenced/product-quality/ORGANIC
+
+organic: true
+
+process:
+- Er wird nass verarbeitet
+- an der Sonne getrocknet
+- von Hand verlesen
+- ein Teil des Rohkaffees wird vor Ort geröstet (15 – 20 Minuten)
+
+goals:
+- own processing equipment
+
+sources:
+- GEPA Produzenten: https://www.gepa.de/produzenten/partner/aprolma-asociacion-de-productoras-libres-de-marcala.html
+
