@@ -1,0 +1,7 @@
+name: Bio Cafe Aprolma, Bohne
+weight: 250 g
+id: 3270901
+
+product-seals:
+- !fairstandards/seals/gepa/fair-plus
+- !fairstandards/seals/eu/organic-farming

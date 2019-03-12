@@ -1,5 +1,5 @@
 --- !fairproducers/HN/APROLMA
-id: APROL1
+id: HN/APROL1
 short-name: APROLMA
 long-name: Asociación de Productoras Libres de Marcala
 location-continent: America
@@ -27,9 +27,9 @@ product-categories:
 - !referenced/product-categories/food/coffee
 
 products:
-- Bio Café Aprolma, Bohne
-- Bio Café Esperanza, gemahlen
-- Bio Café Orgánico, Bohne
+- products/DE/bio-cafe-aprolma-bohne
+- products/DE/bio-cafe-esperanza-gemahlen
+- products/DE/bio-cafe-organico-bohne
 
 processing:
 - local coffee roasting in Marcala, organization „Denominación de Origen“
@@ -40,8 +40,8 @@ processing:
 
 fairstandards-seals:
 - !fairstandards/seals/fairtrade-international/small-producer-organizations
-- !fairstandards/seals/GEPA/fair-plus
-- !fairstandards/seals/EU/organic-farming
+- !fairstandards/seals/gepa/fair-plus
+- !fairstandards/seals/eu/organic-farming
 
 description:    !fairproducers/HN/APROLMA/description-en.md
 description-de: !fairproducers/HN/APROLMA/description-de.md

@@ -1,0 +1,10 @@
+short-name: ACPCU
+long-name: ACPCU
+location-country-name: Uganda
+location-country-code: UG
+
+products:
+- products/DE/bio-espresso-kampala-bohne
+- products/DE/bio-caffe-crema-bassaja-bohne
+- products/DE/bio-espresso-ankole-bohne
+- products/DE/bio-cafe-maliba-gemahlen

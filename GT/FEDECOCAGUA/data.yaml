@@ -1,0 +1,14 @@
+short-name: FEDECOCAGUA
+long-name: Federación de Cooperativas Agrícolas de Productores de Café de Guatemala
+location-country-name: Guatemala
+location-country-code: GT
+
+product-categories:
+- !referenced/product-categories/food/coffee
+
+products:
+- products/DE/cafe-milde-mischung-gemahlen
+- products/DE/cafe-aha-gemahlen
+
+partners:
+- GEPA (since 1978, with interruptions)

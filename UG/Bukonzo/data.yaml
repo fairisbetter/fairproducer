@@ -1,0 +1,13 @@
+short-name: Bukonzo
+long-name: Bukonzo
+id: UG/BUKON1
+location-country-name: Uganda
+location-country-code: UG
+
+products:
+- products/DE/bio-espresso-ankole-bohne
+- products/DE/bio-caffe-crema-bassaja-bohne
+- products/DE/bio-cafe-maliba-gemahlen
+
+partners:
+- GEPA (since 2016)
