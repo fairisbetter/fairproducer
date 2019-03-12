@@ -1,10 +1,14 @@
---- !fairproducers/HN/APRO11
+--- !fairproducers/HN/APROLMA
+id: APROL1
 short-name: APROLMA
 long-name: Asociación de Productoras Libres de Marcala
-location-name: Amerika, Honduras, Marcala
+location-continent: America
+location-country-name: Honduras
+location-country-code: HN
+location-town: Marcala
 location-maps-link: https://maps.google.com/?q=Amerika,%20Honduras,%20Marcala
 members: 64
-founded: 2013
+founding-year: 2013
 type: women cooperative
 land: 1.4 hectars
 
@@ -19,36 +23,28 @@ Kaffee, Barbara Schimmelpfennig, Pressesprecherin, alle GEPA, und Anne Welsing, 
 partners:
 - GEPA (since 2015, GEPA-Code 327)
 
-product-types:
-- !referenced/product-types/COFFEE
+product-categories:
+- !referenced/product-categories/food/coffee
 
 products:
 - Bio Café Aprolma, Bohne
 - Bio Café Esperanza, gemahlen
 - Bio Café Orgánico, Bohne
 
-process:
-- roastery in Marcala, organization „Denominación de Origen“
+processing:
+- local coffee roasting in Marcala, organization „Denominación de Origen“
 - packing by APROLMA women
+- wet processing
+- sun dried
+- sorting by hand
 
-working-conditions:
-- !referenced/working-conditions/EDUCATION
-- !referenced/product-quality/ORGANIC
+fairstandards-seals:
+- !fairstandards/seals/fairtrade-international/small-producer-organizations
+- !fairstandards/seals/GEPA/fair-plus
+- !fairstandards/seals/EU/organic-farming
 
-organic: true
+description:    !fairproducers/HN/APROLMA/description-en.md
+description-de: !fairproducers/HN/APROLMA/description-de.md
 
-process:
-- Er wird nass verarbeitet
-- an der Sonne getrocknet
-- von Hand verlesen
-- ein Teil des Rohkaffees wird vor Ort geröstet (15 – 20 Minuten)
-
-goals:
-- own processing equipment
-
-descriptions:
-- DE: !fairproducers/HN/APRO11/APROLMA_DE.md
-
-sources:
+data sources:
 - GEPA Produzenten: https://www.gepa.de/produzenten/partner/aprolma-asociacion-de-productoras-libres-de-marcala.html
-
